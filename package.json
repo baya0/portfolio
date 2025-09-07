@@ -2,7 +2,7 @@
   "name": "bayan-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bayanabo.github.io/bayan-portfolio",
+ "homepage": "https://baya0.github.io/portfolio"
   "scripts": {
     "dev": "next dev",
     "build": "next build",
